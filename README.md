@@ -1,16 +1,5 @@
-# riverpod_hooks_timer_app
+# Flutter Timer App using Riverpod + Hooks with StateNotifier
 
-A new Flutter project.
+### Tutorial Source
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Flutter Riverpod tutorial: Timer app](https://miro.medium.com/max/764/1*vkgreMcBOLFxlHcA0w4C4g.jpeg)](https://medium.com/flutter-community/flutter-riverpod-tutorial-timer-app-186d04637775 "Flutter Timer App using Riverpod + Hooks with StateNotifier")
